@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Kumoas"]
   spec.email         = ["kumoas@kumolus.com"]
   spec.description   = %q{Heavily inspired by DDH's ActiveRecord::Enum, this little library is there to help you cut down the cruft in your models and make the world a happier place at the same time.}
-  spec.summary       = %q{Sweet enum sugar for your Mongoid documents}
+  spec.summary       = %q{enum support for Mongoid}
   spec.homepage      = "https://github.com/kumoas/kumolus-mongoid-enum"
   spec.license       = "MIT"
 
